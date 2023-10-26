@@ -4,7 +4,7 @@ region = "ca-central-1"
 
 subnet_id = "subnet-id"
 
-number = 1
+number = 2
 
 iplist = ["x.x.x.x","y.y.y.y"]
 
