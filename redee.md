@@ -1,1 +1,0 @@
-this project contains how to setup multiple EC2 instances in AWS 
