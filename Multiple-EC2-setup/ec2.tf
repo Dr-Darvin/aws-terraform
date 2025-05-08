@@ -12,9 +12,6 @@ resource "aws_instance" "ec2server" {
     device_index = 0
   }
   
-
- 
-
   root_block_device {
     volume_size = var.volume_size
     volume_type = var.volume_type
